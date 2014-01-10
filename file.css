@@ -1,0 +1,43 @@
+body
+{
+background-color: darkgreen;
+}
+ul 
+{ 
+list-style: none; 
+display: inline; 
+}
+li 
+{ 
+display: inline; 
+color: solid green;
+}
+textarea 
+{ 
+resize: none; 
+width: 250px;
+height: 40px;
+}
+#output
+{
+position: absolute;
+top: 0px;
+left: 700px;
+width:  px;
+height: 100px;
+}
+#input
+{
+position: absolute;
+top: 40px;
+left: 250px;
+}
+#erti
+{
+border-style: inset;
+}
+#sami
+{
+font-style: bold;
+}
+
